@@ -1,0 +1,88 @@
+body {
+    background:url(./fantasy.jpg);
+    background-repeat:round;
+    margin:  0px;
+}
+
+#startmenu{
+background-color: rgb(3, 3, 3);
+width: 16%;
+height: 100%;
+margin-left: 3%;
+opacity: 0.8;
+
+}
+input{
+   margin: 10 auto;
+   padding-left: 20;
+   outline: none;  
+}
+
+.buildversion{
+margin-top: 360;
+color:gray;
+margin-left:60;
+padding:none;
+margin:none;
+
+}
+
+ul{
+  padding:5px;
+  padding-top:0px;
+}
+
+.login{
+margin:0;
+
+
+}
+ul li {
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    list-style-type: none;
+    margin: 25;   
+    padding-left: 0;
+    padding-top: 10px;
+    border-style: none;
+  
+}
+
+input[type=button]:hover {
+    background-color:rgb(63, 63, 63); 
+    color: white;   
+   
+}
+h5{
+    background-color: rgb(41, 40, 40);
+    text-align: center;
+    font-size: 25px;
+    padding:10px;
+    margin-top: 0;
+    font-style:italic;
+    font-family: monospace;
+    opacity: 0.8;
+}
+
+label{
+    color:gray
+}
+
+
+input[class=loginfield]{
+border: none;
+outline: none;
+padding-right: 1%;
+padding-left: 11%;
+}
+
+input[type=button]{
+    cursor: pointer;
+    border:none;
+    background-color: rgb(3, 3, 3);
+    color: gray;
+    outline: none;
+    text-decoration-style: none;
+    
+}
