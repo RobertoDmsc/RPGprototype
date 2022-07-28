@@ -1,8 +1,10 @@
 # RPGprototype
 A tile based MMORPG with intregated UI 
 
-- Login page [OK]
-- Backend Login/Register [ x ]
-- Responsive UI [ x ]
-- Main UI intregation [ x ]
+- TO - DO - 
+* https://www.youtube.com/watch?v=Tk48dQCdQ3E
+
+* REACT + ELECTRON BASE
+
+* SERVER
 
